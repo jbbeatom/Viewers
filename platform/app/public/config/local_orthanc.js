@@ -18,9 +18,9 @@ window.config = {
       configuration: {
         friendlyName: 'local Orthanc DICOMWeb Server',
         name: 'PACS',
-        wadoUriRoot: 'http://dicomweb.bss-pacs.com/dicom-web',
-        qidoRoot: 'http://dicomweb.bss-pacs.com/dicom-web',
-        wadoRoot: 'http://dicomweb.bss-pacs.com/dicom-web',
+        wadoUriRoot: 'http://dicom-web.bss.do/',
+        qidoRoot: 'http://dicom-web.bss.do/',
+        wadoRoot: 'http://dico-mweb.bss.do/',
         qidoSupportsIncludeField: true,
         supportsReject: true,
         dicomUploadEnabled: true,
