@@ -20,7 +20,7 @@ window.config = {
         name: 'PACS',
         wadoUriRoot: 'http://dicom-web.bss.do',
         qidoRoot: 'http://dicom-web.bss.do',
-        wadoRoot: 'http://dico-mweb.bss.do',
+        wadoRoot: 'http://dicom-web.bss.do',
         qidoSupportsIncludeField: true,
         supportsReject: true,
         dicomUploadEnabled: true,
